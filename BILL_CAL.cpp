@@ -112,9 +112,9 @@ int main() {
 
         out.close();
 
-        cout << "\n\t✅ Report saved to 'bill_report.txt'\n";
+        cout << "\n\t Report saved to 'bill_report.txt'\n";
 
-        // ✅ Open the file using ShellExecuteA
+        //  Open the file using ShellExecuteA
         ShellExecuteA(NULL, "open", "bill_report.txt", NULL, NULL, SW_SHOWNORMAL);
     }
 
@@ -196,9 +196,9 @@ int main() {
 
         out.close();
 
-        cout << "\n\t✅ Report saved to 'bill_report.txt'\n";
+        cout << "\n\t Report saved to 'bill_report.txt'\n";
 
-        // ✅ Fixed: open file using ShellExecuteA
+        //  Fixed: open file using ShellExecuteA
         ShellExecuteA(NULL, "open", "bill_report.txt", NULL, NULL, SW_SHOWNORMAL);
     }
 
