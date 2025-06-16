@@ -135,7 +135,7 @@ int main() {
         cin >> currWhite;
 
         if (currBill < prevBill || currWhite < prevWhite) {
-            cout << "\n\t❌ Error: Current reading cannot be less than previous reading.\n";
+            cout << "\n\t Error: Current reading cannot be less than previous reading.\n";
             return 1;
         }
 
