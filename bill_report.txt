@@ -1,0 +1,16 @@
+===== GAS Bill Report =====
+Total Bill Units: 70000
+White Meter Reading (First Floor): 37500
+First Floor Units: 37500
+Ground Floor Units: 32500
+Total Cash: Rs. 1092
+
+First Floor Percentage: 53%
+Ground Floor Percentage: 46%
+First Floor Bill: Rs. 585
+Ground Floor Bill: Rs. 507
+Tax per Floor: Rs. 1000
+
+=== Final Payable ===
+First Floor: Rs. 1585
+Ground Floor: Rs. 1507
